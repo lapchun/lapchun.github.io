@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lapchun.com/wiki/3.%20I-T-%E4%BA%92%E8%81%94%E7%BD%91/Vue-js%E7%88%AC%E5%9D%91%E8%AE%B0/</loc>
+    <loc>http://lapchun.com/wiki/4.%20%E7%94%9F%E6%B4%BB%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E6%88%91%E7%9A%84%E8%B6%B3%E8%BF%B9/</loc>
     
-    <lastmod>2019-04-23T16:53:08.170Z</lastmod>
+    <lastmod>2019-04-25T06:14:14.162Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lapchun.com/wiki/4.%20%E7%94%9F%E6%B4%BB%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E6%88%91%E7%9A%84%E4%B9%A6%E5%8D%95/</loc>
+    
+    <lastmod>2019-04-25T06:09:55.526Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://lapchun.com/wiki/Welcome-LapChun-s-Wiki-Site/</loc>
     
-    <lastmod>2019-04-21T12:15:30.486Z</lastmod>
+    <lastmod>2019-04-23T17:07:16.332Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lapchun.com/wiki/3.%20I-T-%E4%BA%92%E8%81%94%E7%BD%91/Vue-js%E7%88%AC%E5%9D%91%E8%AE%B0/</loc>
+    
+    <lastmod>2019-04-23T16:53:08.170Z</lastmod>
     
   </url>
   
