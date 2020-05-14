@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lapchun.com/wiki/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2020-05-14T02:29:03.377Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lapchun.com/about/index.html</loc>
     
-    <lastmod>2020-05-13T16:05:36.903Z</lastmod>
+    <lastmod>2020-05-14T02:04:45.754Z</lastmod>
     
   </url>
   
@@ -16,84 +23,35 @@
   </url>
   
   <url>
-    <loc>http://lapchun.com/wiki/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2020-05-05T15:21:28.826Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lapchun.com/wiki/3.%20I-T-%E4%BA%92%E8%81%94%E7%BD%91/LaTex%E8%87%AA%E5%8A%A8%E5%88%A0%E9%99%A4%E8%BE%85%E5%8A%A9%E6%96%87%E4%BB%B6/</loc>
+    <loc>http://lapchun.com/wiki/LaTex%E8%87%AA%E5%8A%A8%E5%88%A0%E9%99%A4%E8%BE%85%E5%8A%A9%E6%96%87%E4%BB%B6/</loc>
     
     <lastmod>2020-05-02T00:07:35.676Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://lapchun.com/wiki/4.%20%E7%94%9F%E6%B4%BB%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E6%88%91%E7%9A%84%E4%B9%A6%E5%8D%95/</loc>
-    
-    <lastmod>2019-10-31T06:46:59.344Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lapchun.com/wiki/4.%20%E7%94%9F%E6%B4%BB%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E6%88%91%E7%9A%84%E8%B6%B3%E8%BF%B9/</loc>
-    
-    <lastmod>2019-10-31T06:45:48.806Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lapchun.com/wiki/3.%20I-T-%E4%BA%92%E8%81%94%E7%BD%91/Vue-js%E7%88%AC%E5%9D%91%E8%AE%B0/</loc>
+    <loc>http://lapchun.com/wiki/Vue-js%E7%88%AC%E5%9D%91%E8%AE%B0/</loc>
     
     <lastmod>2019-10-31T03:40:33.627Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://lapchun.com/wiki/1.%20%E6%BF%80%E5%85%89%E7%89%A9%E7%90%86%E5%AD%A6/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BB%BA%E7%AB%8B/</loc>
-    
-    <lastmod>2019-06-09T06:23:29.395Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lapchun.com/wiki/2.%20%E4%B8%9A%E4%BD%99%E6%97%A0%E7%BA%BF%E7%94%B5/%E5%A4%A9%E7%BA%BF%E8%AE%BE%E8%AE%A1/</loc>
+    <loc>http://lapchun.com/wiki/%E5%A4%A9%E7%BA%BF%E8%AE%BE%E8%AE%A1/</loc>
     
     <lastmod>2019-05-21T05:12:34.723Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://lapchun.com/wiki/Welcome-LapChun-s-Wiki-Site/</loc>
-    
-    <lastmod>2019-04-23T17:07:16.332Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lapchun.com/wiki/2.%20%E4%B8%9A%E4%BD%99%E6%97%A0%E7%BA%BF%E7%94%B5/%E4%B8%9A%E4%BD%99%E6%97%A0%E7%BA%BF%E7%94%B5%E7%8E%A9%E6%B3%95%E5%A4%A7%E5%85%A8/</loc>
+    <loc>http://lapchun.com/wiki/%E4%B8%9A%E4%BD%99%E6%97%A0%E7%BA%BF%E7%94%B5%E7%8E%A9%E6%B3%95%E5%A4%A7%E5%85%A8/</loc>
     
     <lastmod>2019-04-21T12:00:12.289Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://lapchun.com/wiki/1.%20%E6%BF%80%E5%85%89%E7%89%A9%E7%90%86%E5%AD%A6/%E5%A4%AA%E8%B5%AB%E5%85%B9%E6%97%A0%E7%BA%BF%E9%80%9A%E4%BF%A1/</loc>
-    
-    <lastmod>2019-04-21T11:59:02.610Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lapchun.com/wiki/4.%20%E7%94%9F%E6%B4%BB%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
-    
-    <lastmod>2019-04-21T11:57:49.951Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lapchun.com/wiki/3.%20I-T-%E4%BA%92%E8%81%94%E7%BD%91/LabView%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://lapchun.com/wiki/LabView%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2019-04-21T11:27:59.115Z</lastmod>
     
